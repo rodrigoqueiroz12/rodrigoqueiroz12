@@ -41,4 +41,4 @@ I am always looking for new challenges and love creating intuitive interfaces fo
 
 ## Contact Me!
 - **Email**: rodrigo.queiroz0629@gmail.com
-- **LinkedIn**: [linkedin.com/in/rodrigo-queiroz-a113a9212](www.linkedin.com/in/rodrigo-queiroz-a113a9212)
+- **LinkedIn**: [linkedin.com/in/rodrigo-queiroz-a113a9212](https://www.linkedin.com/in/rodrigo-queiroz-a113a9212)
