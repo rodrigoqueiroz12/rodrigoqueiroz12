@@ -1,6 +1,6 @@
 <div align="center">
-  # Hello! I'm Rodrigo 👋
-
+  <h1>Hello! I'm Rodrigo 👋</h1>
+  
   ### PHP & Laravel Specialist | Full Stack Developer
 
   <p>
